@@ -51,7 +51,7 @@ If you encounter any problems, please [file an issue](https://github.com/clamyto
 
 * **v0.1.0** Initial commit.
 
-[python-version]:https://img.shields.io/badge/python-3.11.0-brightgreen.svg
+[python-version]:https://img.shields.io/badge/python-3.11.8-brightgreen.svg
 [latest-version]:https://img.shields.io/badge/version-0.1.0-blue.svg
 [issues-image]:https://img.shields.io/github/issues/clamytoe/stock_market_analytics.svg
 [issues-url]:https://github.com/clamytoe/stock_market_analytics/issues
