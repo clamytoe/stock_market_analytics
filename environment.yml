@@ -1,0 +1,13 @@
+name: stocks
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - black
+  - flake8
+  - isort
+  - mypy
+  - pytest
+  - pytest-cov
+  - python=3.11.0
+  - python-dotenv
