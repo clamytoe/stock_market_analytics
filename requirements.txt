@@ -1,2 +1,12 @@
+beautifulsoup4
+jupyter
+matplotlib
+notebook
+numpy
+pandas
+pandas-datareader
+plotly
 pytest
 python-dotenv
+requests
+yfinance
