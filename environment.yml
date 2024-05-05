@@ -14,6 +14,7 @@ dependencies:
   - numpy
   - pandas
   - pandas-datareader
+  - pip
   - plotly
   - pytest
   - pytest-cov
@@ -21,3 +22,5 @@ dependencies:
   - python-dotenv
   - requests
   - yfinance
+  - pip:
+    - eurostat
