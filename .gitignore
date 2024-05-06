@@ -114,3 +114,7 @@ ENV/
 
 # PDF Documents
 *.pdf
+
+# Parquet files
+*.parquet
+*.parquet.brotli
