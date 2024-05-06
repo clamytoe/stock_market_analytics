@@ -5,6 +5,7 @@ channels:
 dependencies:
   - black
   - bs4
+  - fastparquet
   - flake8
   - isort
   - jupyter
@@ -16,6 +17,7 @@ dependencies:
   - pandas-datareader
   - pip
   - plotly
+  - pyarrow
   - pytest
   - pytest-cov
   - python=3.11.8

@@ -1,5 +1,6 @@
 beautifulsoup4
 eurostat
+fastparquet
 jupyter
 matplotlib
 notebook
@@ -7,6 +8,7 @@ numpy
 pandas
 pandas-datareader
 plotly
+pyarrow
 pytest
 python-dotenv
 requests
