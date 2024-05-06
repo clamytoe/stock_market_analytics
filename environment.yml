@@ -24,3 +24,4 @@ dependencies:
   - yfinance
   - pip:
     - eurostat
+    - ta-lib

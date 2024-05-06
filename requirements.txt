@@ -10,4 +10,5 @@ plotly
 pytest
 python-dotenv
 requests
+ta-lib
 yfinance
