@@ -23,6 +23,7 @@ dependencies:
   - pytest-cov
   - python=3.11.8
   - python-dotenv
+  - scikit-learn-intelex
   - requests
   - yfinance
   - pip:

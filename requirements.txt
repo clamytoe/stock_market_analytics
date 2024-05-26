@@ -12,6 +12,7 @@ plotly
 pyarrow
 pytest
 python-dotenv
+scikit-learn-intelex
 requests
 ta-lib
 yfinance
