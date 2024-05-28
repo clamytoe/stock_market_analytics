@@ -13,6 +13,7 @@ pyarrow
 pytest
 python-dotenv
 scikit-learn-intelex
+seaborn
 requests
 ta-lib
 yfinance

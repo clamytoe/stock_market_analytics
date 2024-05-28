@@ -24,6 +24,7 @@ dependencies:
   - python=3.11.8
   - python-dotenv
   - scikit-learn-intelex
+  - seaborn
   - requests
   - yfinance
   - pip:
