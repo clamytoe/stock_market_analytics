@@ -47,10 +47,6 @@ Distributed under the terms of the [MIT](https://opensource.org/licenses/MIT) li
 
 If you encounter any problems, please [file an issue](https://github.com/clamytoe/toepack/issues) along with a detailed description.
 
-## Changelog
-
-* **v0.1.0** Initial commit.
-
 [python-version]:https://img.shields.io/badge/python-3.11.8-brightgreen.svg
 [latest-version]:https://img.shields.io/badge/version-0.1.0-blue.svg
 [issues-image]:https://img.shields.io/github/issues/clamytoe/stock_market_analytics.svg
